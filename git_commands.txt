@@ -5,7 +5,7 @@ ls
 cd
 
 git init
-git remote add orgin <git link>
+git remote add origin <git link>
 git remote  -v
 
 // add everything at the current dir
@@ -13,7 +13,7 @@ git add .
 
 git commit -m "first commit"
 
-git push orgin master
+git push origin master
 
 git help
 
