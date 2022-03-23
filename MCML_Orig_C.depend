@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1648007968 source:c:\users\mikes\myprojects\mcml_orig_c\mcmlgo.c
+	"mcml.h"
+
+1647867661 c:\users\mikes\myprojects\mcml_orig_c\mcml.h
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stddef.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1648010650 source:c:\users\mikes\myprojects\mcml_orig_c\mcmlio.c
+	"mcml.h"
+
+1647867661 source:c:\users\mikes\myprojects\mcml_orig_c\mcmlnr.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1648011080 source:c:\users\mikes\myprojects\mcml_orig_c\mcmlmain.c
+	<profile.h>
+	<console.h>
+	"mcml.h"
+
