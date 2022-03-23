@@ -13,6 +13,13 @@ git add .
 
 git commit -m "first commit"
 
-git push orgina master
+git push orgin master
 
 git help
+
+
+git config --global user.email "thekangsonly@gmail.com"
+git config --global user.name "thekangsonly"
+
+git add git_commands.txt
+git commit -m "git commands"
