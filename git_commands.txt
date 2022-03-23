@@ -1,0 +1,18 @@
+
+GIT setup
+
+ls
+cd
+
+git init
+git remote add orgin <git link>
+git remote  -v
+
+// add everything at the current dir
+git add . 
+
+git commit -m "first commit"
+
+git push orgina master
+
+git help
