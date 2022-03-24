@@ -195,7 +195,6 @@ char main(int argc, char *argv[])
   ShowVersion("Version 1.2, 1993");
   GetFnameFromArgv(argc, argv, input_filename);
 
-  //strcpy(input_filename, "C:\\Users\\mikes\\MyProjects\\MCML_Orig_C\\Bin\\Debug\\sample.mci.txt");
   input_file_ptr = GetFile(input_filename);
   CheckParm(input_file_ptr, &in_parm);
   num_runs = ReadNumRuns(input_file_ptr);
